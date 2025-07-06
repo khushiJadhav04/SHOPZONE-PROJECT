@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShopZone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <h1>ShopZone</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Products</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to ShopZone</h2>
+    <p>Best deals on everyday products!</p>
+  </section>
+
+  <section class="product-list">
+    <div class="product-card">
+      <h3>Wireless Headphones</h3>
+      <p>Price: ₹999</p>
+      <button>Add to Cart</button>
+    </div>
+    <div class="product-card">
+      <h3>Smartwatch</h3>
+      <p>Price: ₹1,499</p>
+      <button>Add to Cart</button>
+    </div>
+    <div class="product-card">
+      <h3>Bluetooth Speaker</h3>
+      <p>Price: ₹799</p>
+      <button>Add to Cart</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 ShopZone | Designed by Khushi Jadhav</p>
+  </footer>
+
+</body>
+</html>
